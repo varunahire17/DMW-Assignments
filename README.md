@@ -17,4 +17,5 @@ survive or not,
 2. Sex
 3. Age
 4. Fare
+
 Calculate score of your model.
